@@ -3,7 +3,6 @@
 
 ![alt text](image.png)
 
-# **Movies Recommendation System**
 
 ## Business Understanding
 
