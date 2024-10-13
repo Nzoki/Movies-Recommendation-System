@@ -1,4 +1,4 @@
-![Project image](Movie.png)
+![alt text](image.png)
 
 # **Movies Recommendation System**
 
